@@ -1,0 +1,144 @@
+.pyramid-container {
+  text-align: center;
+}
+n1
+{
+  font-size: 4vw;
+  margin-top:0;
+  margin-bottom:0;
+  
+}
+form{
+  text-align: center;
+  margin-bottom:2vh;
+  
+}
+
+inputofdata{
+  margin:10px;
+  font-family: 'Open Sans', Comic Sans Ms;
+  padding-left:10px;
+  text-align: center;
+  font-size: 1.2vw;
+  
+}
+   #triangle-up-6 {
+      width: 0px;
+      height: 0;
+     border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid red;
+     margin-right: auto;
+     margin-left:auto;
+    display: flex;
+  /*   align-items: center; */
+    justify-content: center;
+    
+    }
+#pyramid-level-5 {
+    border-bottom: 50px solid green ;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 100px;
+    margin-right:auto;
+    margin-left:auto;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#pyramid-level-4 {
+    border-bottom: 50px solid orange;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 150px;
+    margin-right:auto;
+    margin-left:auto;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#pyramid-level-3 {
+    border-bottom: 50px solid blue;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 200px;
+    margin-right:auto;
+    margin-left:auto;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pyramid-level-2 {
+    border-bottom: 50px solid brown;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 250px;
+    margin-right:auto;
+    margin-left:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#pyramid-level-1 {
+  position: relative;
+    border-bottom: 50px solid  purple;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 300px;
+    margin-right:auto;
+    margin-left:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+button, .inside-text
+{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 40px;
+  padding: 0px;
+  border-radius:50%;
+  text-align: center
+  vertical-align: middle
+  height: 35px;
+  width: 35px;
+  font-size: 2vw;
+  border-style: none;
+  background-colour: black;
+  colour : black
+}
+
+.plus{
+  position:relative;
+  top:30px;
+  left:15px;
+  height:20px;
+  text-align:center;
+  
+}
+
+.minus{
+  position:relative;
+  top:30px;
+  height:20px;
+right:15px;
+  text-align:center;
+  
+}
+
+.number{
+  position: relative;
+  top:30px
+
+}
+triangle.css
+Displaying triangle.css.
